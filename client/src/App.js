@@ -20,7 +20,6 @@ function App() {
   return (
     <Provider store={store}>
       <div className="App">
-        <h1>Shopping List</h1>
         <AppNavBar />
         <Container>
           <ItemModal />

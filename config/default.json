@@ -1,0 +1,4 @@
+{
+  "mongoURI": "PutYorMongoURI",
+  "jwtSecret": "mysl_mysecretusingjwt"
+}
